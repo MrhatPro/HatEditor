@@ -1,0 +1,19 @@
+The HatEditor is a text editor application built using the Tkinter library in Python. It provides a user-friendly interface for creating, editing, and saving code files in various programming languages. Here is a description of its features:
+
+File Menu: The File menu allows you to perform file-related operations such as creating a new file, opening an existing file, saving the file, and saving the file with a different name.
+
+Language Menu: The Language menu allows you to select the programming language for syntax highlighting and file extension. It provides options for languages like Java, Python, HTML, C, C++, C#, and more. The selected language determines the syntax highlighting colors for the code.
+
+Settings Menu: The Settings menu provides additional options for configuring the editor. It includes features like encoding selection (e.g., UTF-8), HTML viewer for previewing HTML code in the default browser, and a search functionality for finding specific text within the code.
+
+Workspace Menu: The Workspace menu allows you to manage workspaces. It includes options to create a new workspace, open an existing workspace file, and save the current code as a workspace file.
+
+Code Editing: The main area of the editor is dedicated to code editing. It supports syntax highlighting based on the selected programming language. The editor also includes line numbers on the left side to facilitate code navigation.
+
+Auto Recovery: The editor has an auto-recovery feature that automatically saves a recovery file in case of a sudden shutdown or unexpected termination. When the editor is reopened, it checks for the recovery file and prompts the user to recover the unsaved code.
+
+Window Management: The editor window can be resized, moved, and closed using the standard window controls. The maximize and minimize buttons are available in the top right corner of the window.
+
+User Interaction: The editor provides a user-friendly interface that allows users to interact with the application through menus, buttons, and text input fields. It utilizes various dialog boxes and message boxes to prompt for user input or display information.
+
+Overall, the HatEditor aims to provide a convenient and feature-rich environment for coding and editing text files, with support for multiple programming languages and essential functionalities for a smooth coding experience.
